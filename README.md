@@ -2,7 +2,7 @@ rAthena-syntax-highlight
 ======================
 
 
-Project Status: [![Project Status](https://stillmaintained.com/nanakiwurtz/rAthena-syntax-highlight.png)]
+Project Status: [![Project Status](https://stillmaintained.com/nanakiwurtz/rAthena-syntax-highlight.png)](https://stillmaintained.com/nanakiwurtz/rAthena-syntax-highlight)
 
 
 
