@@ -1,7 +1,13 @@
-rAthena-syntax-highlight	https://stillmaintained.com/nanakiwurtz/rAthena-syntax-highlight.png
+rAthena-syntax-highlight
 ======================
 
-This is the syntax highlighter for **rAthena npc scripting language** that is intended to be used with Notepad++
+
+Project Status: [![Project Status](https://stillmaintained.com/nanakiwurtz/rAthena-syntax-highlight.png)]
+
+
+
+
+This is the syntax highlighter for **rAthena npc scripting language** that is intended to be used with Notepad++ app.
 
 Currently it covers the script commands and constants.
 
@@ -32,7 +38,10 @@ Sources:
 :small_blue_diamond: [const.txt](https://github.com/rathena/rathena/blob/master/db/const.txt)
 
 
+
+
 Links:
+
 :arrow_forward: [rAthena Forum](https://rathena.org/board)
 
 :arrow_forward: [rAthena Repository](https://github.com/rathena/rathena)
@@ -40,6 +49,9 @@ Links:
 :arrow_forward: [Notepad++](http://notepad-plus-plus.org)
 
 :arrow_forward: [Original Repository](https://github.com/Sehrentos/rAthena-syntax-highlight)
+
+
+
 
 
 
