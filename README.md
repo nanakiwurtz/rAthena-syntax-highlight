@@ -1,4 +1,4 @@
-rAthena-syntax-highlight	[![Project Status](https://stillmaintained.com/nanakiwurtz/rAthena-syntax-highlight.png)]
+rAthena-syntax-highlight	![Project Status](https://stillmaintained.com/nanakiwurtz/rAthena-syntax-highlight.png)
 ======================
 
 This is the syntax highlighter for **rAthena npc scripting language** that is intended to use in Notepad++
