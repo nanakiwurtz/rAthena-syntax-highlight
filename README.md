@@ -1,21 +1,31 @@
-rAthena-syntax-highlight
+rAthena-syntax-highlight	[![Project Status](https://stillmaintained.com/nanakiwurtz/rAthena-syntax-highlight.png)]
 ======================
 
-Define rAthena npc scripting language for notepad++.
+This is the syntax highlighter for **rAthena npc scripting language** that is intended to use in Notepad++
 
-Has all script commands and constants.
+Currently it covers the script commands and constants.
 
 
-How to add to notepad++ ?
- - Open your notepad++ and go to the Language > Define your language... > Import.
- - Use default styles in the Settings > Style Configurator > Select theme: Default.
- - Or you can download /themes/rAthenaWhite.xml and import it in the settings and then modify rAthenaWhite styles.
- - Restart notepad++ after changing language or styles.
+
+How to add the syntax highligher to Notepad++ ?
+1. Clone or download the repo
+2. Open your Notepad++ and go to the Language --> Define your language... --> Import --> Select file 'Notepadpp-rAthena-syntax-highlight.xml'
+3. Restart your Notepad++
+
+How to change the theme: (These steps are optional)
+1. Open up your file explorer and go to "C:\Users\**Your Username**\AppData\Roaming\Notepad++"
+2. Make backup of your 'styler.xml' and replace with the one from the repo
+3. Restart your Notepad++
 
 
 Sources:
- - rAthena/doc/script_commands.txt, commit c0ed836e87a52d107e7ae09d255f662e1417dd89 (23-08-2014).
- - rAthena/db/const.txt, commit c6ba813994eaaae0a98416f5be7ff65d0e8e13b5 (30-09-2014).
+:small_blue_diamond: [script_commands.txt](https://github.com/rathena/rathena/blob/master/doc/script_commands.txt)
+:small_blue_diamond: [const.txt](https://github.com/rathena/rathena/blob/master/db/const.txt)
 
+Links:
+:arrow_forward: [rAthena Forum](https://rathena.org/board)
+:arrow_forward: [rAthena Repository](https://github.com/rathena/rathena)
+:arrow_forward: [Notepad++](http://notepad-plus-plus.org)
+:arrow_forward: [Original Repo](https://github.com/Sehrentos/rAthena-syntax-highlight)
 
-Happy editing.
+Happy editing
