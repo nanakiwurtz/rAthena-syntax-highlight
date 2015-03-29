@@ -44,7 +44,7 @@
             <WordsStyle name="KEYWORDS3" fgColor="80FFFF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS4" fgColor="80FFFF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="FFFF00" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS6" fgColor="FF0080" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="FFD940" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS7" fgColor="FF0080" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS8" fgColor="FF0080" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="OPERATORS" fgColor="00F23D" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
