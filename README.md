@@ -31,6 +31,19 @@ How to change the theme: (These steps are optional)
 3. Restart your Notepad++
 
 
+How to turn on the Auto Completion feature:
+
+1. Go to Settings --> Preferences --> Auto-Completion
+
+2. Enable the tickbox "Enable auto-completion on each input"
+
+3. Select "Function and word completion"
+
+4. Specify 3 on the "From x th character" (Adjust the value to your liking)
+
+5. Enable "Function parameters hint on input"
+
+
 Sources:
 
 :small_blue_diamond: [script_commands.txt](https://github.com/rathena/rathena/blob/master/doc/script_commands.txt)
