@@ -21,6 +21,10 @@ How to add the syntax highligher to Notepad++ ?
 
 3. Restart your Notepad++
 
+If you get multiple 'rAthena' on your Language menu, you can go to Language --> Define your language... --> Select the duplicated one --> Remove --> Yes.
+
+If you see improper color/all black, reselect the 'rAthena' language again.
+
 
 How to change the theme: (These steps are optional)
 
